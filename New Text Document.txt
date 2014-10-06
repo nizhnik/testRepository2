@@ -1,4 +1,8 @@
 test
 test2
 
+<<<<<<< HEAD
 test3
+=======
+Add new test.(Roman Bondarchuk)
+>>>>>>> origin/master
