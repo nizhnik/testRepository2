@@ -5,4 +5,5 @@ test2
 test3
 =======
 Add new test.(Roman Bondarchuk)
->>>>>>> origin/master
+origin/master
+123
